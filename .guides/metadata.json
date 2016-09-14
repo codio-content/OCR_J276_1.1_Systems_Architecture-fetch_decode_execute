@@ -1,0 +1,73 @@
+{
+ "sections": [
+  {
+   "id": "6f6fa396-190c-999b-6f34-412b0f18fc81",
+   "title": "The fetch-decode-execute cycle",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-fetch-decode-execute-cycle-6f6f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ab60e7a4-9270-307c-7aba-2e37bc324c7c",
+   "title": "Outline of the fetch-decode-execute cycle",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Outline-of-the-fetch-decode-execute-cycle-ab60.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "53dd4335-f73a-37cb-9098-b6c0c35d970e",
+   "title": "The use of registers in the fetch-decode-execute cycle ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-use-of-registers-in-the-fetch-decode-execute-cycle--53dd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1f19b6e7-455a-53f7-76db-76a8a118436c",
+   "title": "Example of the use of the accumulator in the fetch-decode-execute cycle",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Example-of-the-use-of-the-accumulator-in-the-fetch-decode-execute-cycle-1f19.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d8b0e33f-0ebd-3802-4a71-28f4aa849c79",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-d8b0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a22417c9-553d-6095-c802-b8bcffea95e5",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-a224.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

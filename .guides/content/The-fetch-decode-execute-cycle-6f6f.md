@@ -1,0 +1,1 @@
+In this lesson we will look at how the CPU processes the program instructions.
