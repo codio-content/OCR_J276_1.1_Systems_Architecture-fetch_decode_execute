@@ -3,23 +3,19 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-2632283144",
   "source": {
-   "name": "Fetch Execute",
+   "name": "1 Fetch Execute",
    "showName": false,
    "instructions": "**Select the correct answers from the available list**",
    "points": "1",
    "showValues": true,
-   "text": "During the fetch phase of the cycle the <<<control unit>>> sets the <<<program counter>>> to the next memory <<<address>>> to be accessed.\nThis is transferred to the <<<memory address register>>> and a control signal is sent to the memory which returns the instruction to the <<<memory data register>>>.\nThe control unit then interprets the instruction. This is the <<<decode>>> phase of the cycle.\nThe control unit then <<<executes>>> the instruction. \nThe <<<arithmetic and logic unit>>> is used if calculations are needed. \nAs the program is running data and the results of calculations are stored in the <<<accumulator>>>.",
+   "text": "During the fetch phase of the cycle the <<<control unit>>> sets the <<<program counter>>> to the next memory <<<address>>> to be accessed.\nThis is transferred to the <<<memory address register>>> and a control signal is sent to the memory which returns the instruction to the <<<memory data register>>>.\n",
    "tokens": {
     "blank": [
      "control unit",
      "program counter",
      "address",
      "memory address register",
-     "memory data register",
-     "decode",
-     "executes",
-     "arithmetic and logic unit",
-     "accumulator"
+     "memory data register"
     ],
     "text": [
      "During the fetch phase of the cycle the ",
@@ -32,7 +28,30 @@
      0,
      " and a control signal is sent to the memory which returns the instruction to the ",
      0,
-     ".\nThe control unit then interprets the instruction. This is the ",
+     ".\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4081731336",
+  "source": {
+   "name": "2 Fetch Execute",
+   "showName": false,
+   "instructions": "**Select the correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The control unit then interprets the instruction. This is the <<<decode>>> phase of the cycle.\nThe control unit then <<<executes>>> the instruction. \nThe <<<arithmetic and logic unit>>> is used if calculations are needed. \nAs the program is running data and the results of calculations are stored in the <<<accumulator>>>.",
+   "tokens": {
+    "blank": [
+     "decode",
+     "executes",
+     "arithmetic and logic unit",
+     "accumulator"
+    ],
+    "text": [
+     "The control unit then interprets the instruction. This is the ",
      0,
      " phase of the cycle.\nThe control unit then ",
      0,
